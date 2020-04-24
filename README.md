@@ -8,31 +8,31 @@
 
 ## Описание приложения
 При запуске приложения появляется окно входа по логину и паролю.
-![Alt-текст]https://github.com/Andreezy1/clientserver/blob/master/image/1.png
+![Alt-текст](https://github.com/Andreezy1/clientserver/blob/master/image/1.png)
 
 При вводе не правильного логина или пароля, пользователю сообщается об этом.
-![Alt-текст]https://github.com/Andreezy1/clientserver/blob/master/image/2.png
+![Alt-текст](https://github.com/Andreezy1/clientserver/blob/master/image/2.png)
 
 После того как пользователь ввел верно данные, открывается следующие окно. 
-![Alt-текст]https://github.com/Andreezy1/clientserver/blob/master/image/3.png
+![Alt-текст](https://github.com/Andreezy1/clientserver/blob/master/image/3.png)
 
 Данное окно основное. В нем ведется работа с таблицами.
 Пользователь вводит название таблицы в строку для ввода и при нажатии кнопки "Вывести/обновить" отображается нужная таблица.
-![Alt-текст]https://github.com/Andreezy1/clientserver/blob/master/image/4.png
+![Alt-текст](https://github.com/Andreezy1/clientserver/blob/master/image/4.png)
 
 Для того чтобы внести дополнительную запись в таблицу нужно нажать на кнопку "плюсик"
 и появиться строка для ввода.
-![Alt-текст]https://github.com/Andreezy1/clientserver/blob/master/image/5.png
+![Alt-текст](https://github.com/Andreezy1/clientserver/blob/master/image/5.png)
 
 После ввода дополнительной строки жмем кнопку "Отправить данные в таблицу" и все добавленые записи отправляются в таблицу в базе данных.
 
 Для того чтобы удалить ненужную строчку жмем кнопку "минус" и появиться сообщение для подтверждения действия.
-![Alt-текст]https://github.com/Andreezy1/clientserver/blob/master/image/6.png
+![Alt-текст](https://github.com/Andreezy1/clientserver/blob/master/image/6.png)
 После подтверждения действия удаляется запись.
-![Alt-текст]https://github.com/Andreezy1/clientserver/blob/master/image/7.png
+![Alt-текст](https://github.com/Andreezy1/clientserver/blob/master/image/7.png)
 
 Проверяем таблицу в базе данных на сервере.
-![Alt-текст]https://github.com/Andreezy1/clientserver/blob/master/image/8.png
+![Alt-текст](https://github.com/Andreezy1/clientserver/blob/master/image/8.png)
 
 ## Код программы
 ### Серверная часть
